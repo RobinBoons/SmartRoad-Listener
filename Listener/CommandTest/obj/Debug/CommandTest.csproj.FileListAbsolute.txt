@@ -1,0 +1,10 @@
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\obj\Debug\CommandTest.csprojResolveAssemblyReference.cache
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\CommandTest.dll
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\CommandTest.pdb
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\TCPClient.exe
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\TCPClient.pdb
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\obj\Debug\CommandTest.dll
+C:\Users\robin\Documents\Visual Studio 2015\Projects\Listener\CommandTest\obj\Debug\CommandTest.pdb
